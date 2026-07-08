@@ -1,3 +1,20 @@
+```
+      ___
+    ,#####---._
+   /#####,-'~~~`
+  |##' ~|
+  ###   \
+ ,###    `.
+ ####.    `.
+,#####     |
+######     |
+####'      |
+##'##     /
+#' \_    /
+    `-,|'==-   Erik Andersson
+     /|\
+    `~`~'
+```
 > "*Art is I. Science is We.*" - Claude Bernard
 
 I like building things for my friends and I. Odds are I am currently working on an open-source project.
