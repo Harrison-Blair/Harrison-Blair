@@ -16,7 +16,7 @@
      /|\                  : :---: :        : :---: :`---.    ~~.\_.^^__. ^^  / "~~ ~~ ~~~ ~ ~    /| |\    _.--""'/     |  |
     `~`~'                 '```  '```      '''   ''''         ~~ | ~`|   `|;~.~ '~ ~~ ~~          _(_)_   )-._.-\)       ^^
 ```
-<sub>ASCII art — penguin: Todd Deery · owl: Lunatic 42 · canoe: Triteno · duck: PG · chick: BP</sub>
+<sub>ASCII art (left→right): Todd Deery · Lunatic 42 · Triteno · PG · BP</sub>
 > "*Art is I. Science is We.*" - Claude Bernard
 
 I like building things for my friends and I. Odds are I am currently working on an open-source project.
