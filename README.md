@@ -21,11 +21,11 @@
 
 I like building things for my friends and I. Odds are I am currently working on an open-source project.
 
-- [dotfiles](https://github.com/Harrison-Blair/dotfiles) - My dotfiles and sync tool
-- [stenographer](https://github.com/Harrison-Blair/stenographer) - Local STT Tool 
-- [fledge](https://github.com/Harrison-Blair/fledge) - My agentic development tool
-- [personal-website](https://github.com/Harrison-Blair/personal-website)
-- [personal-assistant](https://github.com/Harrison-Blair/personal-assistant)
+- [dotfiles](https://github.com/Harrison-Blair/dotfiles) - dotfiles and sync tool
+- [stenographer](https://github.com/Harrison-Blair/stenographer) - local STT tool 
+- [fledge](https://github.com/Harrison-Blair/fledge) - ai development tool
+- [hearth](https://github.com/Harrison-Blair/hearth) - personal assistant
 
+- [personal-website](https://github.com/Harrison-Blair/personal-website)
 > [!IMPORTANT]
 > Head to my [website](https://www.harrison-blair.dev) if you want to contact me.
