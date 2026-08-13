@@ -22,7 +22,7 @@
 I like building things for my friends and I. Odds are I am currently working on an open-source project.
 
 - [dotfiles](https://github.com/Harrison-Blair/dotfiles)
-- [dotsync](https://github.com/Harrison-Blair/dotsync) - organic, grassfed dotfiles sync tool
+- [dot](https://github.com/Harrison-Blair/dotsync) - dotfiles sync tool
 - [stenographer](https://github.com/Harrison-Blair/stenographer) - local STT tool 
 - [fledge](https://github.com/Harrison-Blair/fledge) - agent harness
 - [hearth](https://github.com/Harrison-Blair/hearth) - personal assistant
