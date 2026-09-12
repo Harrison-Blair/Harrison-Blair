@@ -33,6 +33,7 @@ I like building things for my friends and I. Odds are I am currently working on 
 
 ## Other
 - [dotfiles](https://github.com/Harrison-Blair/dotfiles)
+- [skills](https://github.com/Harrison-Blair/skills)
 
 > [!IMPORTANT]
 > Head to my [website](https://www.harrison-blair.dev) if you want to contact me.
