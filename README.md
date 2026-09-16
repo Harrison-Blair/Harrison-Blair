@@ -24,9 +24,11 @@
 I like building things for my friends and I. Odds are I am currently working on an open-source project.
 
 ## Tools & Apps
-- [dot](https://github.com/Harrison-Blair/dotsync) - dotfiles sync tool
+- [qmeter](https://github.com/Harrison-Blair/qmeter) - CLI tool to view current AI provider limits
 - [stenographer](https://harrison-blair.github.io/stenographer/) - local STT tool 
 - [fledge](https://github.com/Harrison-Blair/fledge) - agent harness
+
+- [dot](https://github.com/Harrison-Blair/dotsync) - dotfiles sync tool
 - [hearth](https://github.com/Harrison-Blair/hearth) - personal assistant
 
 - [personal-website](https://github.com/Harrison-Blair/personal-website)
