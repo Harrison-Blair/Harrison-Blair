@@ -34,8 +34,8 @@ I like building things for my friends and I. Odds are I am currently working on 
 - [personal-website](https://github.com/Harrison-Blair/personal-website)
 
 ## Other
-- [dotfiles](https://github.com/Harrison-Blair/dotfiles)
-- [skills](https://github.com/Harrison-Blair/skills)
+- [dotfiles](https://github.com/Harrison-Blair/dotfiles) - My dotfiles
+- [skills](https://github.com/Harrison-Blair/skills) - Agent skills
 
 > [!IMPORTANT]
 > Head to my [website](https://www.harrison-blair.dev) if you want to contact me.
